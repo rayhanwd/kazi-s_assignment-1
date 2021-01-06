@@ -59,13 +59,6 @@ section{
 .remove-extra-height{
     height: 500px;
 }
-.logo a{
-    float: left;
-    font-family: 'Poppins', sans-serif; 
-    text-decoration: none;
-    color: black;
-}
-
 ul{
   float: right;
   margin-bottom: 30px;
