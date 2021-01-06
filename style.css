@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px; 
+    letter-spacing: 3px;
+}
+p{
+    font-family:'Poppins' ,sans-serif;
+    
+}
+.one-column{
+    width:80%;
+}
+
+.two-column{
+    width:40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+}
+
+.three-column{
+    width: 30%;
+    float: left;
+    margin-left:3%;
+}
+img{
+    width: 100%;
+}
+
+section{
+    height:650px;
+}
+.text-highlight{
+    color: tomato;
+}
+.icon-box{
+    width: 2%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#fa7262,#fb7462);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.extra-tbpadding{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.extra-margin{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.remove-extra-height{
+    height: 500px;
+}
+.logo a{
+    float: left;
+    font-family: 'Poppins', sans-serif; 
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+  float: right;
+  margin-bottom: 30px;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 15px 20px;
+}
+ul li a{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+
+}
+
+.intro-txt-content{
+    margin-top: 100px;
+}
+.about-txt-content{
+    margin-top: 60px;
+}
+.pro-services{
+    background-color: #fff9f9;
+    height: 450px;
+}
+.p-sev-heading{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    color: #363958;
+    padding-top: 30px;
+}
+.service-icon li {
+    list-style: none;
+    width: 20%;
+}
+.read-more{
+    text-decoration: none;
+    font-family: 'Poppins',sans-serif;
+    font-size: 15px;
+    color:#363958;
+}
+.service-hero-txt{
+    font-family: 'Poppins', sans-serif;
+    text-align: start;
+}
+.responsive-design{
+    border: 1px solid #fa7262;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 25px;
+}
+.web-development{
+    border: 1px solid #fa7262;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 25px;
+}
+.web-error-management{
+    border: 1px solid #fa7262;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 25px;
+}
+.Working-project{
+    background-color: #f8f9fc;
+}
+
+.recent-project-heading{
+    text-align: center;
+    padding:40px;
+}
+
+.fst-project{
+    box-shadow: 7px 11px 47px gray;
+    border-radius: 7px;
+}
+.sec-project{
+    box-shadow: 7px 11px 47px gray;
+    border-radius: 7px;
+}
+.thrd-project{
+    box-shadow: 7px 11px 47px gray;
+    border-radius: 7px;
+}
+.Contact-area{
+    width: 90%;
+    height: 400px;
+    background-image: url('images/contact-bg.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+.contact-button{
+    float:right;
+    margin-top: 14%;
+    margin-right: 7%;
+}
+
+.contact-txt-content{
+    margin-top: 12%;
+    color: white;
+}
+.connect-with{
+    height: 180px;
+}
+.social-media{
+    text-align: center;
+    margin-top: 10px;
+}
+.social-media ,h3 ,h4{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #363958;
+}
+
+.social-media a{
+    margin-left: 5px;
+    margin-right: 5px;
+}
